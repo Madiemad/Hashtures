@@ -1,0 +1,2 @@
+https://teachablemachine.withgoogle.com/models/vekF3l3ra/model.json
+HAHA
